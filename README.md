@@ -1,2 +1,2 @@
 # ds_portfolio
-Портфолио с кейсами по Data Science.
+Портфолио с моими кейсами по Data Science.
