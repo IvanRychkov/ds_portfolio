@@ -10,7 +10,7 @@
 
 |Название|Описание|Навыки|Используемые библиотеки| 
 |:-------|:-------|:-----|:----------------------|
-| [Продажи слабоалкогольный продукции в регионах России](https://github.com/IvanRychkov/ds_portfolio/tree/main/Анализ%20регионов%20для%20продажи%20слабоалкогольный%20продукции) | Анализ данных и обучение модели регрессии для рекомендации потенциально прибыльного региона по продаже слабоалкогольной продукции. | Исследовательский анализ, проверка статистических гипотез, визуализация данных, регрессия, bootstrap | *pandas, NumPy, Matplotlib, Seaborn, scikit-learn, SciPy, CatBoost, LightGBM, XGBoost, [toads](https://github.com/IvanRychkov/toads)* |
+| [Продажи слабоалкогольной продукции в регионах России](https://github.com/IvanRychkov/ds_portfolio/tree/main/Анализ%20регионов%20для%20продажи%20слабоалкогольный%20продукции) | Анализ данных и обучение модели регрессии для рекомендации потенциально прибыльного региона по продаже слабоалкогольной продукции. | Исследовательский анализ, проверка статистических гипотез, визуализация данных, регрессия, bootstrap | *pandas, NumPy, Matplotlib, Seaborn, scikit-learn, SciPy, CatBoost, LightGBM, XGBoost, [toads](https://github.com/IvanRychkov/toads)* |
 
 ---
-***Учебные проекты можно посмотреть в репозитории [praktikum_projects](https://github.com/IvanRychkov/praktikum_projects).***
+*Учебные проекты можно посмотреть в репозитории [praktikum_projects](https://github.com/IvanRychkov/praktikum_projects).*
